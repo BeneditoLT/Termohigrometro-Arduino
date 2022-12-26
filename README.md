@@ -6,6 +6,16 @@ Instalar Biblioteca
 Para realizar este experimento, é preciso que o leitor instale algumas bibliotecas para que o código funcione. As bibliotecas que serão instaladas são a AdafruitSSD1306 e a Adafruit GFX. Portanto, siga os passos descritos abaixo para fazer a instalação. Primeiramente, abra sua IDE e clique em Sketch->Incluir Biblioteca->Gerenciar
 Bibliotecas
 
+
+Biblioteca para DHT
+
+
+https://github.com/adafruit/DHT-sensor-library
+
+
+Bibliotecas para o Display
+
+
 ![webpc-passthru1](https://user-images.githubusercontent.com/46333024/209493623-6a2f9441-a5f9-4d3a-b44f-694ede8dede1.png)
 
 Logo em seguida, faça a busca da biblioteca desejada, adafruit ssd1306, encontre a opção cujo autor é a Adafruit e clique para instalar.
